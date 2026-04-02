@@ -51,9 +51,9 @@ All core transformations and calculations were executed in MySQL, including:
 - Annual Income Category Summary
 - Borrower Profile Indicators
 
-# 📊 Dashboard 2 — KPI Overview :
+# 📊 Dashboard 2 — Borrower & Trend Analysis 
 
-![Dashboard 2](./Dashboard_Overview/Dashboard_2.png)
+![Dashboard 2](./Images/Dashboard_2.png)
 
 This page focused on time-based trends and borrower demographic patterns.
 Charts Included
@@ -64,17 +64,18 @@ Charts Included
 - Loan Purpose Breakdown (Bar Chart) – Showed borrower intentions behind loan requests.
 - Home Ownership Analysis (Tree Map) – Demonstrated how housing status influenced loan amounts and applications.
   
-# 📊 Dashboard 2 — KPI Overview :
+# 📊 Dashboard 3 — Loan Status Deep Dive
 
-![Dashboard 3](./Dashboard_Overview/Dashboard_3.png)
+![Dashboard 3](./Images/Dashboard_3.png)
 
 This dashboard provided an in-depth performance analysis of loan repayment and portfolio risk.
 Charts Included
-- Good Loan vs Bad Loan Metrics
-- Loan Status KPIs
+- Id,Issued Date
+- Purpose of Loan
 - Interest Rate vs Loan Grade Relationship
 - Loan Amount vs Amount Received Comparison
-- DTI Segmentation Visuals
+- Interest rate
+- Installments
 
 ## Key Insights
 
