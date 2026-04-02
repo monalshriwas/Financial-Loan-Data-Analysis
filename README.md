@@ -48,8 +48,6 @@ All core transformations and calculations were executed in MySQL, including:
 - Charts Included
 - Loan Status Distribution
 - Good Loan vs Bad Loan Segmentation
-- Annual Income Category Summary
-- Borrower Profile Indicators
 
 # 📊 Dashboard 2 — Borrower & Trend Analysis 
 
@@ -70,7 +68,8 @@ Charts Included
 
 This dashboard provided an in-depth performance analysis of loan repayment and portfolio risk.
 Charts Included
-- Id,Issued Date
+- Id
+- Issued Date
 - Purpose of Loan
 - Interest Rate vs Loan Grade Relationship
 - Loan Amount vs Amount Received Comparison
@@ -91,8 +90,10 @@ Borrowers with 5+ years of employment history showed higher approval and funding
 5. Debt Consolidation Was the Top Purpose:
 This indicated rising financial pressure and dependency on credit restructuring.
 
-7. Portfolio Was Mostly Stable:
+6. Portfolio Was Mostly Stable:
 A majority of loans fell under Fully Paid or Current, but Charged Off loans highlighted risk pockets that required attention
+
+## Conclusion:
 
 Together, the dashboards narrated a clear story:
 
