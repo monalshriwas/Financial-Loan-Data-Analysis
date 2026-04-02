@@ -22,9 +22,9 @@ total_payment, loan_amount, recoveries, installments
 
 ### Tech Stack Used:
 
-Data cleaning – Microsoft Excel
-Data analysis - MySQL
-Dashboarding -PoweBI
+- Data cleaning –Microsoft Excel
+- Data analysis -MySQL
+- Dashboarding -PoweBI
 
 ### MySQL Workflow 
 All core transformations and calculations were executed in MySQL, including:
