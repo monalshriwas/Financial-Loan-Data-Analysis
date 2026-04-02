@@ -37,4 +37,4 @@ All core transformations and calculations were executed in MySQL, including:
 
 # 📊 Dashboard 1 — KPI Overview :
 
-![Dashboard 1](./Dashboard_Overview/Dashboard1.png)
+![Dashboard 1](./Dashboard_Overview/Dashboard_1.png)
