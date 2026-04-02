@@ -28,13 +28,71 @@ Dashboarding -PoweBI
 
 ### MySQL Workflow 
 All core transformations and calculations were executed in MySQL, including:
-•	Data type conversions (especially issue date)
-•	Cleaning inconsistent text fields
-•	Creating new calculated columns
-•	Monthly & yearly aggregations
-•	Statewise and demographic grouping
-•	Risk categorization for Good vs Bad loans
+-	Data type conversions (especially issue date)
+-	Cleaning inconsistent text fields
+-	Creating new calculated columns
+-	Monthly & yearly aggregations
+- Statewise and demographic grouping
+-	Risk categorization for Good vs Bad loans
 
 # 📊 Dashboard 1 — KPI Overview :
 
 ![Dashboard 1](./Dashboard_Overview/Dashboard_1.png)
+
+## Key Metrics Displayed
+- Total Loan Applications
+- Total Funded Amount
+- Total Amount Received
+- Average Interest Rate
+- Average Debt-to-Income (DTI)
+- Charts Included
+- Loan Status Distribution
+- Good Loan vs Bad Loan Segmentation
+- Annual Income Category Summary
+- Borrower Profile Indicators
+
+# 📊 Dashboard 2 — KPI Overview :
+
+![Dashboard 2](./Dashboard_Overview/Dashboard_2.png)
+
+This page focused on time-based trends and borrower demographic patterns.
+Charts Included
+- Monthly Trends by Issue Date (Line Chart) – Showed seasonality and long-term lending movement.
+- State-Level Regional Map (Filled Map) – Highlighted states with the highest loan activity.
+- Loan Term Distribution (Donut Chart) – Compared 36-month vs 60-month loans.
+- Employment Length Analysis (Bar Chart) – Displayed how work experience impacted loan approvals.
+- Loan Purpose Breakdown (Bar Chart) – Showed borrower intentions behind loan requests.
+- Home Ownership Analysis (Tree Map) – Demonstrated how housing status influenced loan amounts and applications.
+  
+# 📊 Dashboard 2 — KPI Overview :
+
+![Dashboard 3](./Dashboard_Overview/Dashboard_3.png)
+
+This dashboard provided an in-depth performance analysis of loan repayment and portfolio risk.
+Charts Included
+- Good Loan vs Bad Loan Metrics
+- Loan Status KPIs
+- Interest Rate vs Loan Grade Relationship
+- Loan Amount vs Amount Received Comparison
+- DTI Segmentation Visuals
+
+## Key Insights
+
+1. Borrowing Increased Over Time:
+Monthly loan trends showed steady growth, indicating rising borrowing demand and seasonality patterns.
+
+2. Certain States Dominated Loan Applications:
+A limited number of states contributed the most applications, helping lenders focus on priority regions.
+
+3. Employment Length Impacted Funding:
+Borrowers with 5+ years of employment history showed higher approval and funding rates.
+
+5. Debt Consolidation Was the Top Purpose:
+This indicated rising financial pressure and dependency on credit restructuring.
+
+7. Portfolio Was Mostly Stable:
+A majority of loans fell under Fully Paid or Current, but Charged Off loans highlighted risk pockets that required attention
+
+Together, the dashboards narrated a clear story:
+
+Borrowers across the country showed strong repayment behavior, with most loans classified as good. However, specific states, loan purposes, and employment categories showed higher risk — highlighting where lenders should focus attention to strengthen performance.
